@@ -11,3 +11,6 @@ Support code for Romain, L., P. Milin & D. Divjak. "Ruled by Construal? Framing 
 All data files can be downloaded from
 
 > [UBIRA](http://edata.bham.ac.uk/878/)
+
+<br>
+For further inquiries contact: ooominds@ooominds.org
