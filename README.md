@@ -13,4 +13,4 @@ All data files can be downloaded from
 > [UBIRA](http://edata.bham.ac.uk/878/)
 
 <br>
-For further inquiries contact: <ooominds@ooominds.org>
+For further inquiries contact: <a href="mailto:ooominds@ooominds.org">Out Of Our Minds</a>
