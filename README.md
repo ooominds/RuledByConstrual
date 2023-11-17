@@ -2,6 +2,8 @@
 
 Support code for Romain, L., P. Milin & D. Divjak. "Ruled by Construal? Framing article choice in English" in *Constructions and Frames*
 
+Please cite this paper if you use any part of the code provided here.
+
 `R` scripts consist of two files:
 
 + Main script to analyse data						`RuledByConstrual`
